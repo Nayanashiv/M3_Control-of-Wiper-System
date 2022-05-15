@@ -53,3 +53,14 @@
 
  ## SWOT ANALYSIS
  # STRENGTH
+  * Low Budget
+  * REputation is Good
+ # WEAKNESS
+  * structural interia
+  * high transcation cost
+ # OPPRONUNTIES
+  * Emerging new market
+  * Demand for save Equipments
+ # THREAT
+  * Low bargaining power buyers
+  * Econimical crisis
